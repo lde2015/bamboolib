@@ -5,8 +5,7 @@
 
 You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lde2015/bamboolib/master?filepath=data_for_container%2Ftest_bamboolib.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lde2015/bamboolib/915a1c9f05b4abee582ca591ede48fe4f5f28f4c)
 
 
 ### How to use bamboolib on any other Open Data?
