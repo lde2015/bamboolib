@@ -5,7 +5,7 @@
 
 You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lde2015/bamboolib/066bf9545bb65bff8d8021e62f2609b302e95e9f)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/lde2015/bamboolib/b373602f85fa093fdc82a2e85aa97e12f005835b)
 
 (or:)
 
